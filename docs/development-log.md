@@ -36,3 +36,7 @@ ci: add build and test workflow
 
 feat: add validation rules for objection notes
 
+## 2026-06-18 - Stage 10
+
+feat: add reporting view for email draft
+

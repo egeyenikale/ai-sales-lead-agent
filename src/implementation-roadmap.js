@@ -43,3 +43,8 @@ export const stage9 = {
   "date": "2026-06-16",
   "message": "feat: add validation rules for objection notes"
 };
+
+export const stage10 = {
+  "date": "2026-06-18",
+  "message": "feat: add reporting view for email draft"
+};
